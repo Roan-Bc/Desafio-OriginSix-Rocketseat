@@ -14,6 +14,6 @@ Link para acessar o site: https://roan-bc.github.io/Desafio-OriginSix-Rocketseat
 
 OBS: Durante essa semana vou terminar 2 requitos:
      
-O primeiro é adapatar o site para outros dispositivos;
+~O primeiro é adapatar o site para outros dispositivos;~ 
      
 ~E o segundo é corrigir um problema no slider de depoimentos.~
